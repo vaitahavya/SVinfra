@@ -51,12 +51,12 @@
                 
                 <!-- Social Media Icons -->
                 <div class="social-icons d-flex gap-2">
-                    <a href="#" class="text-dark"><i class="fab fa-instagram"></i></a>
-                    <a href="#" class="text-dark"><i class="fab fa-facebook"></i></a>
-                    <a href="#" class="text-dark"><i class="fab fa-youtube"></i></a>
-                    <a href="#" class="text-dark"><i class="fab fa-threads"></i></a>
-                    <a href="#" class="text-dark"><i class="fab fa-x-twitter"></i></a>
-                    <a href="#" class="text-dark"><i class="fab fa-linkedin"></i></a>
+                    <a href="https://instagram.com/svinfra" target="_blank" rel="noopener noreferrer" class="text-white"><i class="fab fa-instagram"></i></a>
+                    <a href="https://facebook.com/svinfra" target="_blank" rel="noopener noreferrer" class="text-white"><i class="fab fa-facebook"></i></a>
+                    <a href="https://youtube.com/@svinfra" target="_blank" rel="noopener noreferrer" class="text-white"><i class="fab fa-youtube"></i></a>
+                    <a href="https://threads.net/@svinfra" target="_blank" rel="noopener noreferrer" class="text-white"><i class="fab fa-threads"></i></a>
+                    <a href="https://x.com/svinfra" target="_blank" rel="noopener noreferrer" class="text-white"><i class="fab fa-x-twitter"></i></a>
+                    <a href="https://linkedin.com/company/svinfra" target="_blank" rel="noopener noreferrer" class="text-white"><i class="fab fa-linkedin"></i></a>
                 </div>
             </div>
         </div>
@@ -528,12 +528,12 @@
                     </div>
                     
                     <div class="social-icons">
-                        <a href="#" class="text-white me-2"><i class="fab fa-instagram"></i></a>
-                        <a href="#" class="text-white me-2"><i class="fab fa-facebook"></i></a>
-                        <a href="#" class="text-white me-2"><i class="fab fa-youtube"></i></a>
-                        <a href="#" class="text-white me-2"><i class="fab fa-threads"></i></a>
-                        <a href="#" class="text-white me-2"><i class="fab fa-x-twitter"></i></a>
-                        <a href="#" class="text-white"><i class="fab fa-linkedin"></i></a>
+                        <a href="https://instagram.com/svinfra" target="_blank" rel="noopener noreferrer" class="text-white me-2"><i class="fab fa-instagram"></i></a>
+                        <a href="https://facebook.com/svinfra" target="_blank" rel="noopener noreferrer" class="text-white me-2"><i class="fab fa-facebook"></i></a>
+                        <a href="https://youtube.com/@svinfra" target="_blank" rel="noopener noreferrer" class="text-white me-2"><i class="fab fa-youtube"></i></a>
+                        <a href="https://threads.net/@svinfra" target="_blank" rel="noopener noreferrer" class="text-white me-2"><i class="fab fa-threads"></i></a>
+                        <a href="https://x.com/svinfra" target="_blank" rel="noopener noreferrer" class="text-white me-2"><i class="fab fa-x-twitter"></i></a>
+                        <a href="https://linkedin.com/company/svinfra" target="_blank" rel="noopener noreferrer" class="text-white"><i class="fab fa-linkedin"></i></a>
                     </div>
                 </div>
             </div>
