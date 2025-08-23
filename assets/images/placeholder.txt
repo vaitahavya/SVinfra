@@ -1,0 +1,17 @@
+Image Placeholders for SV Infra Developers Website
+
+Please add the following images to this directory:
+
+1. logo.png - Company logo (recommended size: 200x50px)
+2. sv-resorts.jpg - SV Resorts project image (recommended size: 800x600px)
+3. sv-enclave.jpg - SV Enclave project image (recommended size: 800x600px)
+4. sridhar-rao.jpg - Sridhar Rao photo (recommended size: 400x400px)
+5. vamshidhar-reddy.jpg - Vamshidhar Reddy photo (recommended size: 400x400px)
+
+For best performance:
+- Use WebP format if possible
+- Optimize images for web (compress without losing quality)
+- Use appropriate alt text for accessibility
+- Consider lazy loading for larger images
+
+The website will work without these images, but they will enhance the visual appeal and professionalism of the site.
