@@ -245,7 +245,7 @@
                             <a href="brochures/sv-resorts-brochure.pdf" class="btn btn-outline-primary me-2 mb-2" target="_blank" download>
                                 <i class="fas fa-download me-1"></i>Download Brochure
                             </a>
-                            <a href="#" class="btn btn-outline-primary me-2 mb-2">
+                            <a href="brochures/sv-resorts-layout.pdf" class="btn btn-outline-primary me-2 mb-2" target="_blank">
                                 <i class="fas fa-map me-1"></i>View Layout
                             </a>
                             <a href="#contact" class="btn btn-primary mb-2">
@@ -306,7 +306,7 @@
                             <a href="brochures/sv-enclave-brochure.pdf" class="btn btn-outline-primary me-2 mb-2" target="_blank" download>
                                 <i class="fas fa-download me-1"></i>Download Brochure
                             </a>
-                            <a href="#" class="btn btn-outline-primary me-2 mb-2">
+                            <a href="brochures/sv-enclave-layout.pdf" class="btn btn-outline-primary me-2 mb-2" target="_blank">
                                 <i class="fas fa-map me-1"></i>View Layout
                             </a>
                             <a href="#contact" class="btn btn-primary mb-2">
