@@ -13,6 +13,13 @@
     <meta property="og:description" content="Premium yet affordable real estate projects across Telangana">
     <meta property="og:type" content="website">
     <meta property="og:url" content="https://svinfra.com">
+    <meta property="og:site_name" content="SV Infra Projects">
+    
+    <!-- Twitter Meta Tags -->
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="SV Infra Projects - Building Trust, Shaping Dreams, Delivering Value">
+    <meta name="twitter:description" content="Premium yet affordable real estate projects across Telangana">
+    <meta name="twitter:site" content="@svinfra">
     
     <!-- Bootstrap CSS -->
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
