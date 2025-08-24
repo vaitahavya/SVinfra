@@ -394,10 +394,10 @@
                         <!-- Google Maps -->
                         <div class="map-container">
                             <iframe 
-                                src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3806.1234567890123!2d78.12345678901234!3d17.12345678901234!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMTfCsDA3JzM0LjQiTiA3OMKwMDcnMzQuNCJF!5e0!3m2!1sen!2sin!4v1234567890123"
+                                src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d238.0518511910312!2d78.55436261532911!3d17.32376793751208!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bcba3ba03d937d3%3A0xf3c20b8b012716b3!2sSV%20INFRA%20PROJECTS!5e0!3m2!1sen!2sus!4v1756005000434!5m2!1sen!2sus"
                                 width="100%" 
                                 height="300" 
-                                style="border:0;" 
+                                style="border:0; border-radius: 10px;" 
                                 allowfullscreen="" 
                                 loading="lazy" 
                                 referrerpolicy="no-referrer-when-downgrade">
