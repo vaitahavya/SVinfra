@@ -1,4 +1,4 @@
-# SV Infra Developers Website - Apache Configuration
+# SV Infra Projects Website - Apache Configuration
 
 # Enable URL rewriting
 RewriteEngine On

@@ -1,4 +1,4 @@
-# Social Media Configuration Guide - SV Infra Developers
+# Social Media Configuration Guide - SV Infra Projects
 
 ## 📱 **Current Social Media Links**
 

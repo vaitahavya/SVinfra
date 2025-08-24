@@ -1,4 +1,4 @@
-# Website Update Summary - SV Infra Developers
+# Website Update Summary - SV Infra Projects
 
 ## ✅ **Completed Updates**
 

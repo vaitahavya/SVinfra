@@ -1,4 +1,4 @@
-# Deployment Guide - SV Infra Developers Website
+# Deployment Guide - SV Infra Projects Website
 
 ## 🚀 Quick Deployment Steps
 

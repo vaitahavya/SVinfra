@@ -1,4 +1,4 @@
-# Image Update Guide - SV Infra Developers Website
+# Image Update Guide - SV Infra Projects Website
 
 ## 📸 How to Update Images
 

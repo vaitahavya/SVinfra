@@ -1,6 +1,6 @@
 # Brochures Directory
 
-This directory contains project brochures for SV Infra Developers.
+This directory contains project brochures for SV Infra Projects.
 
 ## Required Brochure Files
 

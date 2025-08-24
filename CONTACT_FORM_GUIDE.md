@@ -1,4 +1,4 @@
-# Contact Form Setup Guide - SV Infra Developers
+# Contact Form Setup Guide - SV Infra Projects
 
 ## 📧 **Contact Form Solutions**
 
@@ -97,7 +97,7 @@ Replace the current action URL in `index.html`:
 
 ### Email Content:
 ```
-Subject: New Contact Form Submission - SV Infra Developers
+Subject: New Contact Form Submission - SV Infra Projects
 
 Name: [User's Name]
 Email: [User's Email]

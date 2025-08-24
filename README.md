@@ -1,6 +1,6 @@
-# SV Infra Developers - Single Page Website
+# SV Infra Projects - Single Page Website
 
-A modern, responsive single-page website for SV Infra Developers, showcasing their real estate projects and company information.
+A modern, responsive single-page website for SV Infra Projects, showcasing their real estate projects and company information.
 
 ## 🏗️ Project Overview
 
@@ -207,7 +207,7 @@ The website is fully responsive and optimized for:
 
 ## 📄 License
 
-This project is created for SV Infra Developers. All rights reserved.
+This project is created for SV Infra Projects. All rights reserved.
 
 ## 🤝 Support
 
@@ -224,4 +224,4 @@ For technical support or customization requests, please contact the development 
 
 ---
 
-**Built with ❤️ for SV Infra Developers**
+**Built with ❤️ for SV Infra Projects**

@@ -1,4 +1,4 @@
-// JavaScript for SV Infra Developers Website
+// JavaScript for SV Infra Projects Website
 
 document.addEventListener('DOMContentLoaded', function() {
     
@@ -332,5 +332,5 @@ document.addEventListener('DOMContentLoaded', function() {
         });
     }
     
-    console.log('SV Infra Developers website loaded successfully!');
+    console.log('SV Infra Projects website loaded successfully!');
 });

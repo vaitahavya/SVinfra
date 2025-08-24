@@ -1,5 +1,5 @@
 <?php
-// Contact Form Handler for SV Infra Developers
+// Contact Form Handler for SV Infra Projects
 // This file handles form submissions when you have PHP support
 
 header('Content-Type: application/json');
@@ -50,10 +50,10 @@ if (!empty($errors)) {
 
 // Email configuration
 $to = 'info@svinfra.com'; // Change this to your email
-$subject = 'New Contact Form Submission - SV Infra Developers';
+$subject = 'New Contact Form Submission - SV Infra Projects';
 
 // Create email content
-$email_content = "New contact form submission from SV Infra Developers website:\n\n";
+$email_content = "New contact form submission from SV Infra Projects website:\n\n";
 $email_content .= "Name: " . htmlspecialchars($name) . "\n";
 $email_content .= "Email: " . htmlspecialchars($email) . "\n";
 $email_content .= "Phone: " . htmlspecialchars($phone) . "\n\n";

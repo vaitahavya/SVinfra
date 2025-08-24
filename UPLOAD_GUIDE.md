@@ -1,4 +1,4 @@
-# 📁 Simple Upload Guide - SV Infra Developers
+# 📁 Simple Upload Guide - SV Infra Projects
 
 ## 🎯 What You Need to Upload
 
@@ -99,4 +99,4 @@ If you want to enhance further:
 
 ---
 
-**🎉 Congratulations! Your SV Infra Developers website is now fully functional with all uploads complete!**
+**🎉 Congratulations! Your SV Infra Projects website is now fully functional with all uploads complete!**
